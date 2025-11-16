@@ -3,6 +3,8 @@ This JavaScript app will calculate costs based on data in an array of objects. T
 
 ---
 
+Use App: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Cost_Calculator/CATopalian_JavaScript_Cost_Calculator.html
+
 Video: https://youtu.be/WCeR8oishq8
 
 ![001](src/media/textures/screenshots/001.PNG)
