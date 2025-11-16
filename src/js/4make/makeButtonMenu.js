@@ -60,7 +60,7 @@ function makeButtonMenu(whichArray)
                 makeCalculator(element.name, element.price);
 
                 // show result in totalCostOutput textbox
-                ge('totalCostOuput').value = (ge('itemAmountInput').value * ge('itemPriceInput').value).toFixed(2);
+                ge('totalCostOuput').value = formatNumber((ge('itemAmountInput').value * ge('itemPriceInput').value).toFixed(2));
             }
             else
             {
